@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RateEstate-demo/static/css/main.66606ed4.chunk.css",
+    "main.js": "/RateEstate-demo/static/js/main.622360bd.chunk.js",
+    "main.js.map": "/RateEstate-demo/static/js/main.622360bd.chunk.js.map",
+    "runtime-main.js": "/RateEstate-demo/static/js/runtime-main.9ece0180.js",
+    "runtime-main.js.map": "/RateEstate-demo/static/js/runtime-main.9ece0180.js.map",
+    "static/css/2.75abc98d.chunk.css": "/RateEstate-demo/static/css/2.75abc98d.chunk.css",
+    "static/js/2.87f1d9f2.chunk.js": "/RateEstate-demo/static/js/2.87f1d9f2.chunk.js",
+    "static/js/2.87f1d9f2.chunk.js.map": "/RateEstate-demo/static/js/2.87f1d9f2.chunk.js.map",
+    "static/js/3.54be0f77.chunk.js": "/RateEstate-demo/static/js/3.54be0f77.chunk.js",
+    "static/js/3.54be0f77.chunk.js.map": "/RateEstate-demo/static/js/3.54be0f77.chunk.js.map",
+    "index.html": "/RateEstate-demo/index.html",
+    "static/css/2.75abc98d.chunk.css.map": "/RateEstate-demo/static/css/2.75abc98d.chunk.css.map",
+    "static/css/main.66606ed4.chunk.css.map": "/RateEstate-demo/static/css/main.66606ed4.chunk.css.map",
+    "static/js/2.87f1d9f2.chunk.js.LICENSE.txt": "/RateEstate-demo/static/js/2.87f1d9f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ece0180.js",
+    "static/css/2.75abc98d.chunk.css",
+    "static/js/2.87f1d9f2.chunk.js",
+    "static/css/main.66606ed4.chunk.css",
+    "static/js/main.622360bd.chunk.js"
+  ]
+}
